@@ -1,5 +1,7 @@
 package com.nekrasov.botMichael.window;
 
 public class BotWindow {
-    public static
+    public static void main(String[] args) {
+
+    }
 }
