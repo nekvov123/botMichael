@@ -1,8 +1,15 @@
 package com.nekrasov.botMichael.window;
 
-public class BotWindow {
-    public static void main(String[] args) {
-        System.out.println("Hello World!");
+import sun.security.tools.keytool.Main;
 
-    }
+import javax.swing.*;
+import java.awt.*;
+
+public class BotWindow extends JFrame {
+    private int width = 300;
+    private int height = 300;
+
+    private
+
+
 }
